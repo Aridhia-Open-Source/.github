@@ -2,4 +2,4 @@ Aridhia helps clinical and life sciences pioneers in Research Hospitals, Univers
  
 Our goal is to bring large-scale computing and analytics to healthcare and to bridge the gap between clinical research and how that knowledge contributes to day-to-day healthcare delivery. We created this open source project in that same spirit, reinforcing our commitment to a world with better health outcomes for all patients.
 
-Follow our [blog](https://www.aridhia.com/category/blog/) more information on our products and current projects. 
+Follow our [blog](https://www.aridhia.com/category/blog/) for more information on our products and current projects. 
