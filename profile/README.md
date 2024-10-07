@@ -1,3 +1,5 @@
+![aridhia_OS](https://github.com/Aridhia-Open-Source/PHEMS_federated_node/blob/main/images/image%20(2).png)
+
 ## The Company
 Aridhia helps clinical and life sciences pioneers in Research Hospitals, Universities, Pharmaceutical Companies & Global Medical Networks who want to advance their medical research and improve outcomes more quickly. We do this by providing a safe, secure Digital Research Environment (DRE).
 
